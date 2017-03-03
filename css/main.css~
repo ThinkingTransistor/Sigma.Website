@@ -1,0 +1,25 @@
+* {
+    font-family: 'Amiko', sans-serif;
+}
+
+body {
+    background-color: 36474F;
+    color: #EEEEEE;
+    text-align: center;
+}
+
+.svg-container {
+    display: inline-block;
+    position: relative;
+    width: 100%;
+    height: 30%;
+    padding-bottom: 0%; /* aspect ratio */
+    vertical-align: top;
+    overflow: hidden;
+}
+.svg-content-responsive {
+    display: inline-block;
+    position: absolute;
+    top: 10px;
+    left: 0;
+}
