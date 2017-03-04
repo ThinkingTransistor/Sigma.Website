@@ -1,4 +1,0 @@
-var jsnx = require('jsnetworkx');
-
-alert(jsnx);
-   
