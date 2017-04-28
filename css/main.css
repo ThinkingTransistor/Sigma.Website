@@ -23,3 +23,11 @@ body {
     top: 10px;
     left: 0;
 }
+
+.link {stroke: #AAAAAA;}
+/*.node {stroke: #EEEEEE; stroke-width: 2px;}*/
+.heading {font-size: 48pt;}
+.textblock > h5 {font-size: 20pt; text-align: center; margin-top: -0.25rem; margin-bottom: 0.75rem;}
+.textblock {margin: auto; width: 50%; font-size: 16pt; text-align: justify; line-height: 150%;}
+.company {margin-top: -2rem; margin-bottom: -0.25rem; font-size: 16pt;}
+.tiny {font-size: 12pt; margin-top: 4rem;}
