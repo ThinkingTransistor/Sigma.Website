@@ -14,8 +14,8 @@ hr {width: 40%; margin-top: 5rem}
 .textblock {margin: auto; width: 50%; font-size: 16pt; text-align: justify; line-height: 150%;}
 .company {margin-top: -3rem; margin-bottom: -0.25rem; font-size: 13pt;}
 .tiny {font-size: 12pt; margin-top: 1rem;}
-.tagline { padding-top: 0.3rem; padding-bottom: 0.3rem; }
-.taglineblock { margin-left: -10%; width: 120%; background-color: #EEE; color: 36474F;}
+.tagline {padding-top: 0.3rem; padding-bottom: 0.3rem;}
+.taglineblock { width: 100%; background-color: white; color: 36474F;}
 
 @media (max-width: 50rem)
 {
