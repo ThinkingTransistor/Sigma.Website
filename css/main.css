@@ -8,26 +8,9 @@ body {
     text-align: center;
 }
 
-.svg-container {
-    display: inline-block;
-    position: relative;
-    width: 100%;
-    height: 30%;
-    padding-bottom: 0%; /* aspect ratio */
-    vertical-align: top;
-    overflow: hidden;
-}
-.svg-content-responsive {
-    display: inline-block;
-    position: absolute;
-    top: 10px;
-    left: 0;
-}
-
-.link {stroke: #AAAAAA;}
-/*.node {stroke: #EEEEEE; stroke-width: 2px;}*/
+hr {width: 40%; margin-top: 5rem}
 .heading {font-size: 48pt;}
 .textblock > h5 {font-size: 20pt; text-align: center; margin-top: -0.25rem; margin-bottom: 0.75rem;}
 .textblock {margin: auto; width: 50%; font-size: 16pt; text-align: justify; line-height: 150%;}
-.company {margin-top: -2rem; margin-bottom: -0.25rem; font-size: 16pt;}
-.tiny {font-size: 12pt; margin-top: 4rem;}
+.company {margin-top: -3rem; margin-bottom: -0.25rem; font-size: 13pt;}
+.tiny {font-size: 12pt; margin-top: 1rem;}
