@@ -8,7 +8,8 @@ body {
     text-align: center;
 }
 
-hr {width: 40%; margin-top: 5rem}
+hr {width: 40%; }
+.footer {margin-top: 5rem;}
 .heading {font-size: 48pt;}
 .textblock > h5 {font-size: 20pt; text-align: center; margin-top: -0.25rem; margin-bottom: 0.75rem;}
 .textblock {margin: auto; width: 50%; font-size: 16pt; text-align: justify; line-height: 150%;}
@@ -16,11 +17,13 @@ hr {width: 40%; margin-top: 5rem}
 .tiny {font-size: 12pt; margin-top: 1rem;}
 .tagline { padding-top: 0.3rem; padding-bottom: 0.3rem; }
 .taglineblock { margin-left: -10%; width: 120%; background-color: #EEE; color: 36474F;}
+a {color: #AAA;}
 
 @media (max-width: 50rem)
 {
 	.tagline {width: 90%; margin: auto; margin-top: 1rem;}
 	.textblock {width: 90%; margin-bottom: 0rem;}
 	.tiny {width: 90%; margin: auto; margin-top: 1rem;}
-	hr {width: 80%; margin-top: 0rem;}
+	hr {width: 80%;}
+	.footer {margin-top: 0rem;}
 }
