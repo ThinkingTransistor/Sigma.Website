@@ -1,23 +1,22 @@
-* {
-    font-family: 'Amiko', sans-serif !important;
-}
+* {font-family: 'Amiko', sans-serif !important;}
 
-body {
-    background-color: 36474F;
-    color: #EEEEEE;
-    text-align: center;
-}
+body {background-color: 36474F; color: #EEEEEE; text-align: center;}
 
-hr {width: 40%; }
-.footer {margin-top: 5rem;}
-.heading {font-size: 48pt;}
-.textblock > h5 {font-size: 20pt; text-align: center; margin-top: -0.25rem; margin-bottom: 0.75rem;}
-.textblock {margin: auto; width: 50%; font-size: 16pt; text-align: justify; line-height: 150%;}
-.company {margin-top: -3rem; margin-bottom: -0.25rem; font-size: 13pt;}
-.tiny {font-size: 12pt; margin-top: 1rem;}
-.tagline {padding-top: 0.3rem; padding-bottom: 0.3rem;}
-.taglineblock {width: 100%; background-color: white; color: 36474F;}
+hr {width: 40%;}
 a {color: #AAA;}
+
+.header {margin-bottom: 2rem;}
+.title {font-size: 48pt;}
+.company {margin-top: -3rem; margin-bottom: -0.25rem; font-size: 13pt;}
+
+.tagline {padding-top: 0.3rem; padding-bottom: 0.3rem; margin-top: 2rem;}
+.taglineblock {width: 100%; background-color: white; color: 36474F;}
+
+.textblock > h5 {font-size: 20pt; text-align: center; margin-top: 1rem; margin-bottom: 0.75rem;}
+.textblock {margin: auto; width: 50%; font-size: 16pt; text-align: justify; line-height: 150%;}
+
+.footer {margin-top: 5rem;}
+.tiny {font-size: 12pt; margin-top: 1rem;}
 
 @media (max-width: 50rem)
 {
